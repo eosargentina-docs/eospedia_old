@@ -1,2 +1,0 @@
-# Tenedores de Tokens
-

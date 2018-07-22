@@ -1,2 +1,0 @@
-# Tokens de EOS
-

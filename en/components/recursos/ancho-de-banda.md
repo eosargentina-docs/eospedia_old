@@ -1,2 +1,0 @@
-# Ancho de Banda
-
